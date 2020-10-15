@@ -1,0 +1,19 @@
+{
+    "name": "valbulescu/crowd-favorite",
+    "description": "A test for crowd favorite company",
+    "authors": [
+        {
+            "name": "Victor Alexandru Albulescu",
+            "email": "albulescu.victor.alexandru@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.3.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "CrowdFavorite": "src/"
+        }
+    }
+}
