@@ -1,0 +1,24 @@
+{
+  "name": "crowd-favorite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexalbulescu/crowd-favorite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexalbulescu/crowd-favorite/issues"
+  },
+  "homepage": "https://github.com/alexalbulescu/crowd-favorite#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-uglifycss": "^1.1.0"
+  }
+}
